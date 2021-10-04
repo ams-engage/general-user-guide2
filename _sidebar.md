@@ -1,91 +1,91 @@
-* [Asset Registration](AssetRegistration)
+* [**Asset Registration**](AssetRegistration)
   * [For Asset Managers](ARForAssetManagers)
   * [For Asset Approvers](ARForAssetApprovers)
   * [For Asset Tag Printer](ARForAssetTagPrinter)
   * [For Taggers](ARForTaggers)
   * [For Tagging Verifiers](ARForTaggingVerifiers)
 
-* [Asset Stocktake](AssetStocktake)
+* [**Asset Stocktake**](AssetStocktake)
   * [For Asset Managers](ASForAssetManagers)
   * [For Stocktakers](ASForStocktakers)
   * [For Stocktake Verifiers](ASForStocktakeVerifiers)
   * [For Custodians](ASForCustodians)
 
-* [Asset Assignment](AssetAssignment)
+* [**Asset Assignment**](AssetAssignment)
   * [For Custodians](AAForCustodians)
   * [For End Users](AAForEndUsersReturn)
   * [For All](AAForAll)
 
-* [Asset Transfer](AssetTransfer)
+* [**Asset Transfer**](AssetTransfer)
   * [For Custodians](ATForCustodians)
   * [For Asset Approvers](ATForAssetApprovers)
 
-* [Asset Update](AssetUpdate)
+* [**Asset Update**](AssetUpdate)
   * [For Custodians](AUForCustodians)
   * [For Asset Approvers](AUForAssetApprovers)
 
-* [Asset Maintenance](AssetMaintenance)
+* [**Asset Maintenance**](AssetMaintenance)
   * [For Custodians](AMForCustodiansStart)
 
-* [Mobile](Mobile)
+* [**Mobile**](Mobile)
   * [For Custodians, Taggers & Stocktakers](MobileFCTS)
   * [For Tagging](MobileFT)
   * [For Stocktake](MobileFS)
   * [For Asset Managers & Custodians](MobileFAMC)
 
-* [Inventory Catalog](InventoryCatalog)
+* [**Inventory Catalog**](InventoryCatalog)
   * [For Inventory Admin](InventoryCatalogFIA)
 
-* [Inventory Store](InventoryStore)
+* [**Inventory Store**](InventoryStore)
   * [For Inventory Admin](InventoryStoreFIA)
 
-* [Inventory Receipt](InventoryReceipt)
+* [**Inventory Receipt**](InventoryReceipt)
   * [For Inventory Admin](InventoryReceiptFIASubmit)
   * [For Inventory Approvers](InventoryReceiptFIApp)
 
-* [Inventory Issuance](InventoryIssuance)
+* [**Inventory Issuance**](InventoryIssuance)
   * [For Inventory Admin](InventoryIssuanceFIAIssue)
   * [For Inventory Approvers](InventoryIssuanceFIApp)
 
-* [Inventory Return](InventoryReturn)
+* [**Inventory Return**](InventoryReturn)
   * [For Inventory Admin](InventoryReturnFIARaise)
   * [For Inventory Approvers](InventoryReturnFIApp)
 
-* [Inventory Transfer](InventoryTransfer)
-  *[For Inventory Admin](InventoryTransferFIA)
-  *[For Inventory Approvers](InventoryTransferFIApp)
+* [**Inventory Transfer**](InventoryTransfer)
+  * [For Inventory Admin](InventoryTransferFIA)
+  * [For Inventory Approvers](InventoryTransferFIApp)
 
-* [Inventory Stocktake](InventoryStocktake)
+* [**Inventory Stocktake**](InventoryStocktake)
   * [For Inventory Admin](InventoryStocktakeFIA)
 
-* [Inventory Adjustment](InventoryAdjustment)
+* [**Inventory Adjustment**](InventoryAdjustment)
   * [For Inventory Admin](InventoryAdjustmentFIA)
   * [For Inventory Approvers](InventoryAdjustmentFIApp)
 
-* [Reversal of Inventory Issuance](ReversalofInventoryIssuance)
+* [**Reversal of Inventory Issuance**](ReversalofInventoryIssuance)
   * [For Inventory Admin](ROIIFIA)
   * [For Inventory Approvers](ROIIFIApp)
 
-* [Reversal of Inventory Receipt](ReversalofInventoryReceipt)
+* [**Reversal of Inventory Receipt**](ReversalofInventoryReceipt)
   * [For Inventory Admin](ROIRFIA)
   * [For Inventory Approvers](ROIRFIApp)
 
-* [Contract](Contract)
+* [**Contract**](Contract)
   * [For Contract Managers](ContractCMVendor)
 
-* [Email Approval](EmailApproval)
+* [**Email Approval**](EmailApproval)
   * [For Approvers](EAFA)
   * [For Requestors](EAFR)
 
-* [Asset Retirement (Via Update)](AssetRetirement)
+* [**Asset Retirement (Via Update**)](AssetRetirement)
   * [For Custodians](ARFC)
   * [For Asset Approvers](ARFAA)
 
-* [Asset Retagging](AssetRetagging)
+* [**Asset Retagging**](AssetRetagging)
   * [For Custodians](AssetRetagFC)
   * [For Asset Approvers](AssetRetagFAA)
   * [For Asset Tag Printer](AssetRetagFATP)
   * [For Asset Manager](AssetRetagFAM)
 
-* [Global Transaction Search](GlobalTransactionSearch)
-  * [GlobalFAMC]
+* [**Global Transaction Search**](GlobalTransactionSearch)
+  * [For Asset Managers & Custodians](GlobalFAMC)
