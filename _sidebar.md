@@ -19,6 +19,8 @@
 * [**Asset Transfer**](AssetTransfer)
   * [For Custodians](ATForCustodians)
   * [For Asset Approvers](ATForAssetApprovers)
+  * [For Asset Managers](ATForAssetManagers)
+  * [For New Custodians](ATForNewCustodians)
 
 * [**Asset Update**](AssetUpdate)
   * [For Custodians](AUForCustodians)
@@ -77,7 +79,15 @@
   * [For Approvers](EAFA)
   * [For Requestors](EAFR)
 
-* [**Asset Retirement (Via Update**)](AssetRetirement)
+* [**Asset Retirement**](AssetRetirementA)
+  * [For Managing Agent (MA)](ARFMA)
+  * [For FAO](ARFFAO)
+  * [For Custodian/Asset Manager](ARFCAM)
+  * [For MIC](ARFMIC)
+  * [For Retirement Verifier](ARFRV)
+  * [For Retirement AO](ARFRAO)
+
+* [**Asset Retirement (Via Update**)](AssetRetirementB)
   * [For Custodians](ARFC)
   * [For Asset Approvers](ARFAA)
 
