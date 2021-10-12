@@ -43,4 +43,4 @@ A banner will show that the record has been saved to the system.
 
 ![](images/ARFATP7.png "ARFATP7")
 
-Note: Assets that are submitted on this page will be required to update tagging details - web tagging, mobile tagging.
+Note: Assets that are submitted on this page will be required to update tagging details - [web tagging](ARForTaggers), [mobile tagging](MobileFT).

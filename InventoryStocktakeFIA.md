@@ -6,7 +6,7 @@
 
 1. Select **New**.
 
-![](images/ISFIA.png "ISFIA")
+![](images/ISTFIA.png "ISTFIA")
 
 2. Enter the **Description**.
 
@@ -19,7 +19,7 @@
 6. Select the **Start** button.
 Note that once stocktake has been initiated, no incoming or outgoing transactions are permitted for the store.
 
-![](images/ISFIA2.png "ISFIA2")
+![](images/ISTFIA2.png "ISTFIA2")
 
 7. Perform stocktaking on the inventory,
 
@@ -31,7 +31,7 @@ Note that once stocktake has been initiated, no incoming or outgoing transaction
 
 8. Select the **Submit for Adjustment** button.
 
-![](images/ISFIA3.png "ISFIA3")
+![](images/ISTFIA3.png "ISTFIA3")
 
 9. Select the **Adjustment** tab.
 
@@ -39,8 +39,8 @@ Note that once stocktake has been initiated, no incoming or outgoing transaction
 
 11. Select the **Create Store Adjustment** button.
 
-12. Select the **OK** prompt by your web browser, this will save the current stocktake transaction and automatically generate an Inventory Adjustment transaction, refer to [Inventory Adjustment](InventoryAdjustment.md) for more information.
+12. Select the **OK** prompt by your web browser, this will save the current stocktake transaction and automatically generate an Inventory Adjustment transaction, refer to [Inventory Adjustment](InventoryAdjustment) for more information.
 
 13. Return to applicable stocktake transaction and select **Close**.
 
-![](images/ISFIA4.png "ISFIA4")
+![](images/ISTFIA4.png "ISTFIA4")

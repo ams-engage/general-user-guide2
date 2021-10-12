@@ -58,7 +58,7 @@ Skip steps **3, 4, 5, 6, 7** if no addition remarks and verification of more ass
 
 ## How do I Perform Stocktake Using Excel Upload? (Web Version)
 
-1. Follow Step 1 in [Perform Stocktake](#) earlier.
+1. Follow Step 1 in [Perform Stocktake](ASForStocktakers) earlier.
 
 2. Select **Download Upload Template File**. 
 An excel workbook will be downloaded.

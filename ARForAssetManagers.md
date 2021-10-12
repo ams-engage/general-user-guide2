@@ -39,7 +39,8 @@
 
 > Navigate to: **Asset > Asset Registration > Register Asset**
 
-1. You will find a draft record in the **search page**. Select on the record **Draft**.
+1. You will find a draft record in the **search page**. 
+Select on the record **Draft**.
 
 ![](images/ARFAM6.png "ARFAM6")
 
