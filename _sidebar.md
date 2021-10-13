@@ -79,17 +79,13 @@
   * [For Approvers](EAFA)
   * [For Requestors](EAFR)
 
-* [**Asset Retirement**](AssetRetirementB)
+* [**Asset Retirement**](AssetRetirement)
   * [For Managing Agent (MA)](ARFMA)
   * [For FAO](ARFFAO)
   * [For Custodian/Asset Manager](ARFCAM)
   * [For MIC](ARFMIC)
   * [For Retirement Verifier](ARFRV)
   * [For Retirement AO](ARFRAO)
-
-* [**Asset Retirement (Via Update**)](AssetRetirementA)
-  * [For Custodians](ARFC)
-  * [For Asset Approvers](ARFAA)
 
 * [**Asset Retagging**](AssetRetagging)
   * [For Custodians](AssetRetagFC)
