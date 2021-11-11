@@ -11,10 +11,16 @@ If **partial**, he/she may enter the percentage of which the system shall random
 ![](images/AssetStocktake.png "AssetStocktake")
 
 Click on your respective role(s) to take you through the asset stocktake process:
-- [Asset Managers](ASForAssetManagersCreate)
+- [Asset Managers (Stocktake)](ASForAssetManagersStock)
 
-- [Stocktakers](ASForStocktakers)
+- [Stocktakers (Stocktake)](ASForStocktakers)
 
-- [Stocktake Verifiers](ASForStocktakeVerifiers)
+- [Stocktake Verifiers (Stocktake)](ASForStocktakeVerifiers)
 
-- [Custodians](ASForCustodians)
+- [Custodians (Stocktake)](ASForCustodians)
+
+- [Asset Managers (Self-sighting)](ASForAssetManagersSelf)
+
+- [Custodian & End User (Self-Sighting)](ASForCustodianEndSelf)
+
+- [Self-sighting Verifier(Self-Sighting)](ASForSSV)

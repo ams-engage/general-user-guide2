@@ -1,4 +1,4 @@
-# For Stocktake Verifiers
+# For Stocktake Verifiers (Audit Mode = Stocktake)
 
 ## How do I Verify the Stocktake findings?
 

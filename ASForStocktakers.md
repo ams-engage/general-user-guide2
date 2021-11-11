@@ -1,4 +1,4 @@
-# For Stocktakers
+# For Stocktakers (Audit Mode = Stocktake)
 
 ## How do I Perform Stocktake? (Web Version)
 

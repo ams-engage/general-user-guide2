@@ -1,4 +1,4 @@
-# For Custodians
+# For Custodians (Audit Mode = Stocktake)
 
 ## How do I Acknowledge the Stocktake findings?
 
@@ -12,10 +12,9 @@
 
 In this page, you will find the stocktake assets under your custody and the actions to be taken.
 
-2. Select on **Query** or **Acknowledge** found on each row. 
-To acknowledge all records, skip this step.
+2. Select **Mode of Audit** as **"Stocktake"**.
 
-3. Select **Acknowledge all** and confirm.
+3. Select on **Query** or **Acknowledge** button found on each row.
 
 ![](images/ASFC2.png "ASFC2")
 
