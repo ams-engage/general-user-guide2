@@ -6,14 +6,17 @@
   * [For Tagging Verifiers](ARForTaggingVerifiers)
 
 * [**Asset Stocktake**](AssetStocktake)
-  * [For Asset Managers](ASForAssetManagers)
-  * [For Stocktakers](ASForStocktakers)
-  * [For Stocktake Verifiers](ASForStocktakeVerifiers)
-  * [For Custodians](ASForCustodians)
+  * [For Asset Managers (Stocktake)](ASForAssetManagersStock)
+  * [For Stocktakers (Stocktake)](ASForStocktakers)
+  * [For Stocktake Verifiers (Stocktake)](ASForStocktakeVerifiers)
+  * [For Custodians (Stocktake)](ASForCustodians)
+  * [For Asset Manager (Self-Sighting)](ASForAssetManagersSelf)
+  * [For Custodian & End User (Self-Sighting)](ASForCustodianEndSelf)
+  * [For Self-sighting Verifier(Self-Sighting)](ASForSSV)
 
 * [**Asset Assignment**](AssetAssignment)
   * [For Custodians](AAForCustodians)
-  * [For End Users](AAForEndUsers)
+  * [For End Users](AAForEndUsersReturn)
   * [For All](AAForAll)
 
 * [**Asset Transfer**](AssetTransfer)
@@ -79,7 +82,7 @@
   * [For Approvers](EAFA)
   * [For Requestors](EAFR)
 
-* [**Asset Retirement**](AssetRetirement)
+* [**Asset Retirement**](AssetRetirementB)
   * [For Managing Agent (MA)](ARFMA)
   * [For FAO](ARFFAO)
   * [For Custodian/Asset Manager](ARFCAM)
@@ -87,11 +90,16 @@
   * [For Retirement Verifier](ARFRV)
   * [For Retirement AO](ARFRAO)
 
+* [**Asset Retirement (Via Update**)](AssetRetirementA)
+  * [For Custodians](ARFC)
+  * [For Asset Approvers](ARFAA)
+
 * [**Asset Retagging**](AssetRetagging)
   * [For Custodians](AssetRetagFC)
   * [For Asset Approvers](AssetRetagFAA)
   * [For Asset Tag Printer](AssetRetagFATP)
   * [For Asset Manager](AssetRetagFAM)
 
-* [**Global Transaction Search**](GlobalTransactionSearch)
-  * [For Asset Managers & Custodians](GlobalFAMC)
+* [**Global Transaction Search**](GlobalFAMC)
+
+* [**View Scheduled Report in Inbox**](ViewSR)
